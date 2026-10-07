@@ -1,3 +1,3 @@
-l= input()
-length=len(l)
-print(length) 
+l = input()
+length = len(l)
+print(length)
